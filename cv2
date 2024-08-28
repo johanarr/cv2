@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Johana Razo Reyes</title>
+</head>
+<body style="background-color: rgb(210, 238, 202);" >
+    <header>
+    
+        <h1>MI CV</h1>
+
+        <h2>Johana Razo Reyes</h2>
+    <div clas="profile-description">
+    <ul>
+        <h2>Escolaridad:</h2>
+        <li>Ingenieria en Sistemas</li>
+        <h2>correo:</2>
+        <p>razojohana4@gmail.com</p>
+    </ul>
+</div>
+
+        <h2>Habilidades a practicar</h2>
+        <ol>
+            <li>c++</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Java Scrpt</li>
+        </ol>
+
+     <h2>Fortalezas</h2>
+     <ul>
+        <li>comunicacion asertiva</li>
+        <li>Trabajo en equipo</li>
+     </ul>
+
+     <h2>Hobbies</h2>
+     <ul>
+        <li>Leer</li>
+        <li>aprender nuevas cosas en mis ratos libres</li>
+     </ul>
+     <div>
+        
+     </div>
+     <div clas="image-profile">
+     <img src="./descarga.png" alt="gato">
+     </div>
+
+    </header>
+    
+</body>
+</html>
